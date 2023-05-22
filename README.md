@@ -1,12 +1,8 @@
 # Interactive Repulsion Effect with Three.js
 
-A tutorial on how to recreate the interactive repulsion effect of grid items seen in BestServedBold's Dribbble shot ["Holographic-Interactions"](https://dribbble.com/shots/5515695-Holographic-Interactions). By Ion D. Filho.
+A tutorial on how to recreate the interactive repulsion effect of grid items seen
 
 ![Image Title](https://raw.githubusercontent.com/iondrimba/images/master/perrin.gif)
-
-[Article on Codrops](https://tympanus.net/codrops/?p=36627)
-
-[Demo](https://tympanus.net/Tutorials/InteractiveRepulsionEffect/)
 
 ## Requirements
 
@@ -63,8 +59,4 @@ This resource can be used freely if integrated or build upon in personal or comm
 
 ## Misc
 
-Follow Ion Drimba Filho: [Twitter](https://twitter.com/code__music), [Codepen](https://codepen.io/iondrimba/), [GitHub](https://github.com/iondrimba)
-
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/), [Instagram](https://www.instagram.com/codropsss/)
-
-[© Codrops 2018](http://www.codrops.com)
+Follow me: [GitHub](https://github.com/elitesuper)
